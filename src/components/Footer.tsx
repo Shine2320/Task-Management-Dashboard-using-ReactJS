@@ -14,7 +14,7 @@ export const Footer = () => {
         }}
       >
         <div className="copyright text-center">
-          © {new Date().getFullYear()} Wrench Solutions. All rights reserved.
+          © {new Date().getFullYear()} Task Management. All rights reserved.
         </div>
       </div>
     </footer>
