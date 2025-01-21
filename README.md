@@ -16,19 +16,19 @@ This is a task management application built with **React**, **TypeScript**, **Vi
 - **TypeScript**: A superset of JavaScript that adds static types.
 - **Vite**: A modern and fast build tool for React and TypeScript.
 - **React-Bootstrap**: Bootstrap components for React.
-- **React Hooks**: State and effect management using `useState` and `useEffect`.
+- **React Hooks**: State and effect management using `useState`, `useEffect` and `useContext`.
 
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (LTS version)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
 
 ## Setup Instructions
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/task-management-app.git
-   cd task-management-app
+   git clone https://github.com/Shine2320/Task-Management-Dashboard-using-ReactJS.git
+   cd Task-Management-Dashboard-using-ReactJS
    ```
